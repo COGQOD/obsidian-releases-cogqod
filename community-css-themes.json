@@ -2854,10 +2854,10 @@
     "modes": ["dark"]
   },
   {
-    "name"："HoverPopup",
-    "author"："COGQOD",
+    "name": "HoverPopup",
+    "author": "COGQOD",
     "repo": "COGQOD/hoverpopup-obsidian-theme",
-    "screenshot"："screenshots/screenshot.png",
+    "screenshot": "screenshots/screenshot.png",
     "modes": ["dark"]
   }
 ]
